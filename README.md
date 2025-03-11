@@ -4,3 +4,10 @@
     width=350
     />
 </p>
+
+<p align="center">
+  <img
+    width670
+    src="https://github.com/trevorvb1/littlelemon/blob/2e1b6b95bda9db15f244aa5366e11d5631053849/littlelemon/restaurant/static/img/Screenshot%20from%202025-03-12%2001-24-44.png"
+    />
+</p>
